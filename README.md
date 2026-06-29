@@ -20,16 +20,16 @@
 ### 3. AWS
 
 * 📄 **관련 문서:**
-  * [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf) <!-- 실제 PDF 파일명으로 변경하세요 -->
+  * [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf)
 
-* 🛠️ **기술 스택:** AWS VPC, EC2, S3, RDS, CloudFront
+* 🛠️ **기술 스택:** AWS VPC, EC2, ELB, RDS, Route53
 
-* 💡 **설명:** AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+* 💡 **설명:** AWS를 활용하여 고가용성을 확보한 3-Tier 웹 서비스 아키텍처 구축
 
 * 🎯 **주요 기여:**
-  * VPC 및 서브넷 설계 및 구축
-  * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
-  * EKS 클러스터 구축 및 관리
+  * 네트워크 환경 설계 및 구현
+  * 고가용성 부하 분산 및 DNS 연동
+  * 3-Tier 서비스 연동 및 데이터베이스 구축
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
