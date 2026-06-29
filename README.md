@@ -10,14 +10,22 @@
 * 📝 이력서:
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
-<!-- AWS SAA -->
-<a href="자격증_링크_입력"><img src="https://shields.io" alt="AWS SAA"></a>
+<p align="left">
+  <!-- AWS SAA -->
+  <a href="본인의_AWS_SAA_인증_링크" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SAA-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
+  </a>
 
-<!-- CKA -->
-<a href="자격증_링크_입력"><img src="https://shields.io" alt="CKA"></a>
+  <!-- Kubernetes CKA -->
+  <a href="본인의_CKA_인증_링크" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes%20CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA">
+  </a>
 
-<!-- Terraform Associate -->
-<a href="자격증_링크_입력"><img src="https://shields.io" alt="Terraform Associate"></a>
+  <!-- Terraform -->
+  <a href="본인의_Terraform_인증_혹은_프로젝트_링크" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  </a>
+</p>
 
 
 
