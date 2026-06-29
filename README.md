@@ -11,9 +11,20 @@
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
 <p align="left">
-  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/amazon-aws/aws-certified-solutions-architect-associate.png?raw=true" width="150" alt="AWS SAA">
-  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/kubernetes/cka.png?raw=true" width="150" alt="CKA">
-  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/hashicorp/terraform.png?raw=true" width="150" alt="Terraform">
+  <!-- AWS SAA -->
+  <a href="본인의_AWS_SAA_인증_링크" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SAA-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
+  </a>
+
+  <!-- Kubernetes CKA -->
+  <a href="본인의_CKA_인증_링크" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes%20CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA">
+  </a>
+
+  <!-- Terraform -->
+  <a href="본인의_Terraform_인증_혹은_프로젝트_링크" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
