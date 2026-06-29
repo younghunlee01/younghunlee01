@@ -20,7 +20,7 @@
   
   <!-- CKA 공식 자격증 배지 -->
   <a href="https://www.credly.com/earner/earned/badge/98f1356e-d1a7-4474-86fd-6e8f31ca2a53" target="_blank">
-    <img src="https://images.credly.com/images/8b1e60a3-f09d-4786-89d8-9fa4f971b3e6/image.png" width="145" alt="CKA">
+    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-badge/master/assets/kubernetes/cka.png" width="145" alt="CKA">
   </a>
   
   &nbsp;&nbsp;
