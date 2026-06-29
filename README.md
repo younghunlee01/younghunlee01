@@ -3,6 +3,21 @@
 
 - 📫 How to reach me **younghunlee13@gmail.com**
 
+## 📂 About Me
+
+* 🌱 현재: 클라우드 엔지니어 취업 준비 중
+* 🔥 관심 기술: Helm, IaC, ArgoCD, GitOps
+* 📝 이력서: [이력서_황준서.pdf](이력서_황준서.pdf)
+* 기술 블로그: [velog.io/@under_js](https://velog.io/@under_js)
+* 노션 공부 자료: [Notion](https://notion.so) <!-- 실제 본인 노션 링크로 대체하세요 -->
+* 🏆 주요 자격증: AWS-SAA, CKA, 정보처리기사
+
+<p align="left">
+  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/amazon-aws/aws-certified-solutions-architect-associate.png?raw=true" width="160" alt="AWS Certified Solutions Architect – Associate">
+  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/amazon-aws/aws-certified-data-engineer-associate.png?raw=true" width="160" alt="AWS Certified Data Engineer – Associate">
+  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/kubernetes/cka.png?raw=true" width="160" alt="Certified Kubernetes Administrator">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
