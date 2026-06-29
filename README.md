@@ -17,6 +17,10 @@
 
 ## Projects
 
+### 1. Rocky Linux
+
+### 2. Network
+
 ### 3. AWS
 
 * 📄 **관련 문서:**
@@ -30,7 +34,12 @@
   * 네트워크 환경 설계 및 구현
   * 고가용성 부하 분산 및 DNS 연동
   * 3-Tier 서비스 연동 및 데이터베이스 구축
---    
+
+### 4. Kubernetes
+
+### 5. Terraform
+
+### 6. MultiCloud
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
