@@ -99,7 +99,6 @@
   * 멀티 클라우드 인프라 구축 및 관리
  ---
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
