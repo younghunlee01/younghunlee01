@@ -10,22 +10,15 @@
 * 📝 이력서:
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
-<p align="left">
-  <!-- AWS SAA -->
-  <a href="본인의_AWS_SAA_인증_링크" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20SAA-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
-  </a>
+<!-- AWS SAA -->
+[![AWS Certified Solutions Architect - Associate](https://shields.io)]()
 
-  <!-- Kubernetes CKA -->
-  <a href="본인의_CKA_인증_링크" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes%20CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA">
-  </a>
+<!-- CKA -->
+[![Certified Kubernetes Administrator](https://shields.io)](자격증_링크_입력)
 
-  <!-- Terraform -->
-  <a href="본인의_Terraform_인증_혹은_프로젝트_링크" target="_blank">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  </a>
-</p>
+<!-- Terraform Associate -->
+[![HashiCorp Certified: Terraform Associate](https://shields.io)](https://www.credly.com/badges/a33df354-d571-49ca-ab58-f9875750a1d5)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
