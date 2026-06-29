@@ -92,14 +92,14 @@
 * 📄 **관련 문서:**
   * [MultiCloud](./Project/1_history_multi-cloud.pdf)
 
-* 🛠️ **기술 스택:** 
+* 🛠️ **기술 스택:** AWS, GCP, Terraform(IaC)
 
-* 💡 **설명:** 
+* 💡 **설명:** AWS 인프라와 GCP Cloud SQL을 HA VPN 및 BGP 동적 라우팅으로 사설 연동
 
 * 🎯 **주요 기여:**
-  * 
-  * 
-  * 
+  * 멀티 클라우드 네트워크 연동
+  * 멀티 클라우드 DNS 및 서비스 전환
+  * 멀티 클라우드 인프라 구축 및 관리
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
