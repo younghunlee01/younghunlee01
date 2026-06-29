@@ -12,7 +12,7 @@
 
 <p align="left">
   <!-- AWS SAA 공식 자격증 배지 -->
-  <a href="본인의_AWS_SAA_인증_링크" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/7fa02b27-1772-48d6-8a1e-f7693c5feedb" target="_blank">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="145" alt="AWS SAA">
   </a>
   
