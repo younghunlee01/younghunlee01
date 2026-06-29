@@ -10,26 +10,9 @@
 * 📝 이력서:
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
-<p align="left">
-  <!-- AWS SAA 공식 자격증 배지 -->
-  <a href="https://www.credly.com/earner/earned/badge/7fa02b27-1772-48d6-8a1e-f7693c5feedb" target="_blank">
-    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="145" alt="AWS SAA">
-  </a>
-  
-  &nbsp;&nbsp;
-  
-<!-- ⚓ CKA 공식 자격증 배지 (황준서님 실제 CKA Credly 검증 링크 연동 완료) -->
-  <a href="https://www.credly.com/badges/98f1356e-d1a7-4474-86fd-6e8f31ca2a53" target="_blank">
-    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-badge/master/assets/kubernetes/cka.png" width="145" alt="CKA">
-  </a>
-  
-  &nbsp;&nbsp;
-  
-  <!-- Terraform 공식 자격증 배지 (Associate) -->
-  <a href="https://www.credly.com/earner/earned/badge/a33df354-d571-49ca-ab58-f9875750a1d5" target="_blank">
-    <img src="https://images.credly.com/images/286f53a1-ae23-40a2-99be-747d519543e4/image.png" width="145" alt="Terraform">
-  </a>
-</p>
+<img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/1bd69ae4-76f6-40df-8769-ca15506273e3" />
+<img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/5c15a118-46f3-40fc-bbae-43941fa6e3fa" />
+<img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/d3beb0ed-cbf4-4fba-9982-f0f58d7546bc" />
 
 
 
