@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm 이영훈</h1>
-<h3 align="center">A passionate Cloud Engineer developer from 명지전문대</h3>
 
 - 📫 How to reach me **younghunlee13@gmail.com**
 
