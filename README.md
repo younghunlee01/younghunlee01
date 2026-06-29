@@ -20,16 +20,16 @@
 ### 1. Rocky Linux
 
 * 📄 **관련 문서:**
-  * [Rocky Linux 기반 인프라 구축 및 서비스 연동 구성](./Project/)
+  * [Rocky Linux 기반 인프라 구축 및 서비스 연동 구성](./Project/LinuxProject_HISTORY.pdf)
 
 * 🛠️ **기술 스택:** Rocky Linux 9.7
 
 * 💡 **설명:** Rocky Linux 9.7을 활용하여 VMware에서 리눅스 서버 구성
 
 * 🎯 **주요 기여:**
-  * 네트워크 환경 설계 및 구현
-  * 고가용성 부하 분산 및 DNS 연동
-  * 3-Tier 서비스 연동 및 데이터베이스 구축
+  * Rocky Linux 기반 서버 구축 및 운영
+  * 스토리지 및 사용자 자원 관리
+  * 애플리케이션 및 데이터베이스 연동
 
 ### 2. Network
 
