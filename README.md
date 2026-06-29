@@ -29,31 +29,24 @@
 ## 📜 Certifications & Education
 
 * 📚 **자격증**
-  * [AWS Certified Solutions Architect – Associate (SAA)](본인의_AWS_SAA_인증_링크)
-  * [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/98f1356e-d1a7-4474-86fd-6e8f31ca2a53/public_url)
-  * **정보처리기사**
-  * [HashiCorp Certified: Terraform Associate](본인의_Terraform_인증_링크)
-  * AWS Certified Data Engineer – Associate (DEA)
+  * AWS Certified Solutions Architect – Associate (SAA)
+  * Certified Kubernetes Administrator (CKA)
+  * HashiCorp Certified: Terraform Associate
+  * CCNA
   * 리눅스 마스터 2급
   * 네트워크 관리사 2급
-  * 한국사능력검정시험 1급
-  * 운전면허 1종 보통
-  * 컴퓨터활용능력 2급
   * ...
 
 * 🎓 **교육 과정**
   * 대우능력개발원 - 클라우드 기반 정보시스템 구축 전문가 양성
-    <br>24년 09월 ~ 25년 03월
+    <br>25년 12월 ~ 26년 07월
     <br><br>교육 과정:
     * ▪ 서버 (Linux, Window server)
     * ▪ 네트워크 (Cisco)
     * ▪ Docker & Kubernetes
-    * ▪ AWS (+EKS)
+    * ▪ AWS
+    * ▪ Terraform
+    * ▪ Git
 
 * 📂 **교육 이수:**
-  * 클라우드 컴퓨팅
-    * ▪ 한국기술교육대학교 온라인평생교육기술원
-    * ▪ 25년 2월 ~ 25년 3월
-  * 클라우드 인프라 네트워크 구성
-    * ▪ 한국기술교육대학교 온라인평생교육기술원
-    * ▪ 25년 2월 ~ 25년 3월
+  * 클라우드 컴퓨팅 인프라 보안
