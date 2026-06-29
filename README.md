@@ -19,14 +19,14 @@
   &nbsp;&nbsp;
   
   <!-- CKA 공식 자격증 배지 -->
-  <a href="본인의_CKA_인증_링크" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/98f1356e-d1a7-4474-86fd-6e8f31ca2a53" target="_blank">
     <img src="https://images.credly.com/images/8b1e60a3-f09d-4786-89d8-9fa4f971b3e6/image.png" width="145" alt="CKA">
   </a>
   
   &nbsp;&nbsp;
   
   <!-- Terraform 공식 자격증 배지 (Associate) -->
-  <a href="본인의_Terraform_인증_링크" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/a33df354-d571-49ca-ab58-f9875750a1d5" target="_blank">
     <img src="https://images.credly.com/images/286f53a1-ae23-40a2-99be-747d519543e4/image.png" width="145" alt="Terraform">
   </a>
 </p>
