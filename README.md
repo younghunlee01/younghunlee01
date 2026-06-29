@@ -16,8 +16,20 @@
 
 
 ## Projects
-1. Rocky Linux
 
+## [3. AWS]
+
+* 📄 **관련 문서:**
+  * [AWS 퍼블릭 클라우드 구성](./Project/AWS_퍼블릭_클라우드_구성.pdf) <!-- 실제 PDF 파일명으로 변경하세요 -->
+
+* 🛠️ **기술 스택:** AWS VPC, EC2, S3, RDS, CloudFront
+
+* 💡 **설명:** AWS를 활용한 퍼블릭 클라우드 인프라 구축 및 고가용성 설계
+
+* 🎯 **주요 기여:**
+  * VPC 및 서브넷 설계 및 구축
+  * CloudFront 및 S3를 활용한 정적 웹 사이트 호스팅
+  * EKS 클러스터 구축 및 관리
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
