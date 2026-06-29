@@ -111,9 +111,9 @@
 ## 📜 Certifications & Education
 
 * 📚 **자격증**
-  * [AWS Certified Solutions Architect – Associate (SAA)]
-  * [Certified Kubernetes Administrator (CKA)]
-  * [HashiCorp Certified: Terraform Associate]
+  * AWS Certified Solutions Architect – Associate (SAA)
+  * Certified Kubernetes Administrator (CKA)
+  * HashiCorp Certified: Terraform Associate
   * CCNA
   * 리눅스 마스터 2급
   * 네트워크 관리사 2급
@@ -131,4 +131,6 @@
     * Git
 
 * 📂 **교육 이수:**
-  * 클라우드 컴퓨팅 인프라 보안
+  * 클라우드 보안 운영
+    * 온라인평생교육원
+    * 26년 6월 ~ 26년 7월
