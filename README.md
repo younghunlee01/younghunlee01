@@ -47,7 +47,7 @@
 
 ### 3. AWS
 
-* 📄 **관련 문서:** [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf)
+* 📄 **관련 문서:** [AWS](./Project/1_HISTORY_AWSProject.pdf)
 
 * 🛠️ **기술 스택:** AWS VPC, EC2, ELB, RDS, Route53
 
