@@ -34,7 +34,7 @@
 ### 2. Network
 
 * 📄 **관련 문서:**
-  * [네트워크](./Project/)
+  * [네트워크](./Project/1_history_networkproject.pdf)
 
 * 🛠️ **기술 스택:** X Shell, IOU-Web, L3-Switch, 라우팅 프로토콜
 
@@ -61,9 +61,45 @@
 
 ### 4. Kubernetes
 
+* 📄 **관련 문서:**
+  * [Kubernetes](./Project/)
+
+* 🛠️ **기술 스택:** Kubernetes
+
+* 💡 **설명:** 
+
+* 🎯 **주요 기여:**
+  * 
+  * 
+  * 
+
 ### 5. Terraform
 
+* 📄 **관련 문서:**
+  * [Terraform](./Project/)
+
+* 🛠️ **기술 스택:** 
+
+* 💡 **설명:** 
+
+* 🎯 **주요 기여:**
+  * 
+  * 
+  * 
+
 ### 6. MultiCloud
+
+* 📄 **관련 문서:**
+  * [MultiCloud](./Project/)
+
+* 🛠️ **기술 스택:** 
+
+* 💡 **설명:** 
+
+* 🎯 **주요 기여:**
+  * 
+  * 
+  * 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
