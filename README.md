@@ -18,10 +18,7 @@
   
   &nbsp;&nbsp;
   
-  <!-- CKA 공식 자격증 배지 -->
-  <a href="https://www.credly.com/earner/earned/badge/98f1356e-d1a7-4474-86fd-6e8f31ca2a53" target="_blank">
-    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-badge/master/assets/kubernetes/cka.png" width="145" alt="CKA">
-  </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98f1356e-d1a7-4474-86fd-6e8f31ca2a53" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
   &nbsp;&nbsp;
   
