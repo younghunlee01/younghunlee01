@@ -11,9 +11,9 @@
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
 <p align="left">
-  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/amazon-aws/aws-certified-solutions-architect-associate.png?raw=true" width="160" alt="AWS Certified Solutions Architect – Associate">
-  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/amazon-aws/aws-certified-data-engineer-associate.png?raw=true" width="160" alt="AWS Certified Data Engineer – Associate">
-  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/kubernetes/cka.png?raw=true" width="160" alt="Certified Kubernetes Administrator">
+  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/amazon-aws/aws-certified-solutions-architect-associate.png?raw=true" width="150" alt="AWS SAA">
+  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/kubernetes/cka.png?raw=true" width="150" alt="CKA">
+  <img src="https://github.com/ryo-ma/github-profile-badge/blob/master/assets/hashicorp/terraform.png?raw=true" width="150" alt="Terraform">
 </p>
 
 <h3 align="left">Connect with me:</h3>
