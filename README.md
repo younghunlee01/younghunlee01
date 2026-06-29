@@ -15,6 +15,10 @@
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/1bd69ae4-76f6-40df-8769-ca15506273e3" />
 
 
+## Projects
+1. Rocky Linux
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
