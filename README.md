@@ -17,7 +17,7 @@
 
 ## Projects
 
-## [3. AWS]
+### 3. AWS
 
 * 📄 **관련 문서:**
   * [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf) <!-- 실제 PDF 파일명으로 변경하세요 -->
