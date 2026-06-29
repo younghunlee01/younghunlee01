@@ -11,19 +11,23 @@
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
 <p align="left">
-  <!-- AWS 로고 -->
+  <!-- AWS SAA 공식 자격증 배지 -->
   <a href="본인의_AWS_SAA_인증_링크" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120" height="120" alt="AWS SAA">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="145" alt="AWS SAA">
   </a>
+  
   &nbsp;&nbsp;
-  <!-- Kubernetes 로고 -->
+  
+  <!-- CKA 공식 자격증 배지 -->
   <a href="본인의_CKA_인증_링크" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="110" height="110" alt="CKA">
+    <img src="https://images.credly.com/images/8b1e60a3-f09d-4786-89d8-9fa4f971b3e6/image.png" width="145" alt="CKA">
   </a>
+  
   &nbsp;&nbsp;
-  <!-- Terraform 로고 -->
-  <a href="본인의_Terraform_인증_혹은_프로젝트_링크" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="110" height="110" alt="Terraform">
+  
+  <!-- Terraform 공식 자격증 배지 (Associate) -->
+  <a href="본인의_Terraform_인증_링크" target="_blank">
+    <img src="https://images.credly.com/images/286f53a1-ae23-40a2-99be-747d519543e4/image.png" width="145" alt="Terraform">
   </a>
 </p>
 
