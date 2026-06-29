@@ -18,16 +18,16 @@
   
   &nbsp;&nbsp;
   
-  <!-- CKA 공식 자격증 배지 -->
+  <!-- CKA 공식 자격증 배지 (안정적인 GitHub CDN 주소로 변경) -->
   <a href="본인의_CKA_인증_링크" target="_blank">
-    <img src="https://images.credly.com/images/8b1e60a3-f09d-4786-89d8-9fa4f971b3e6/image.png" width="145" alt="CKA">
+    <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-badge@master/assets/kubernetes/cka.png" width="145" alt="CKA">
   </a>
   
   &nbsp;&nbsp;
   
-  <!-- Terraform 공식 자격증 배지 (Associate) -->
+  <!-- Terraform 공식 자격증 배지 (안정적인 백업 주소로 변경) -->
   <a href="본인의_Terraform_인증_링크" target="_blank">
-    <img src="https://images.credly.com/images/286f53a1-ae23-40a2-99be-747d519543e4/image.png" width="145" alt="Terraform">
+    <img src="https://raw.githubusercontent.com/jakejarvis/developer-badges/master/svg/hashicorp-certified-terraform-associate.svg" width="145" alt="Terraform">
   </a>
 </p>
 
