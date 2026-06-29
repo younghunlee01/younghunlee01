@@ -11,13 +11,14 @@
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
 <!-- AWS SAA -->
-[![AWS Certified Solutions Architect - Associate](https://shields.io)]()
+<a href="자격증_링크_입력"><img src="https://shields.io" alt="AWS SAA"></a>
 
 <!-- CKA -->
-[![Certified Kubernetes Administrator](https://shields.io)](자격증_링크_입력)
+<a href="자격증_링크_입력"><img src="https://shields.io" alt="CKA"></a>
 
 <!-- Terraform Associate -->
-[![HashiCorp Certified: Terraform Associate](https://shields.io)](https://www.credly.com/badges/a33df354-d571-49ca-ab58-f9875750a1d5)
+<a href="자격증_링크_입력"><img src="https://shields.io" alt="Terraform Associate"></a>
+
 
 
 <h3 align="left">Connect with me:</h3>
