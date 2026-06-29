@@ -19,8 +19,7 @@
 
 ### 1. Rocky Linux
 
-* 📄 **관련 문서:**
-  * [Rocky Linux 기반 인프라 구축 및 서비스 연동 구성](./Project/LinuxProject_HISTORY.pdf)
+* 📄 **관련 문서:** [Rocky Linux 기반 인프라 구축 및 서비스 연동 구성](./Project/LinuxProject_HISTORY.pdf)
 
 * 🛠️ **기술 스택:** Rocky Linux 9.7
 
@@ -33,8 +32,7 @@
 
 ### 2. Network
 
-* 📄 **관련 문서:**
-  * [네트워크](./Project/1_history_networkproject.pdf)
+* 📄 **관련 문서:** [네트워크](./Project/1_history_networkproject.pdf)
 
 * 🛠️ **기술 스택:** X Shell, IOU-Web, L3-Switch, 라우팅 프로토콜
 
@@ -47,8 +45,7 @@
 
 ### 3. AWS
 
-* 📄 **관련 문서:**
-  * [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf)
+* 📄 **관련 문서:** [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf)
 
 * 🛠️ **기술 스택:** AWS VPC, EC2, ELB, RDS, Route53
 
@@ -61,8 +58,7 @@
 
 ### 4. Kubernetes
 
-* 📄 **관련 문서:**
-  * [Kubernetes](./Project/1_history_kubernetesproject.pdf)
+* 📄 **관련 문서:** [Kubernetes](./Project/1_history_kubernetesproject.pdf)
 
 * 🛠️ **기술 스택:** Kubernetes
 
@@ -75,8 +71,7 @@
 
 ### 5. Terraform
 
-* 📄 **관련 문서:**
-  * [Terraform](./Project/1_HISTORY_TerraformProject.pdf)
+* 📄 **관련 문서:** [Terraform](./Project/1_HISTORY_TerraformProject.pdf)
 
 * 🛠️ **기술 스택:** Terraform(IaC), HCP, Git, AWS
 
@@ -89,8 +84,7 @@
 
 ### 6. MultiCloud
 
-* 📄 **관련 문서:**
-  * [MultiCloud](./Project/1_history_multi-cloud.pdf)
+* 📄 **관련 문서:** [MultiCloud](./Project/1_history_multi-cloud.pdf)
 
 * 🛠️ **기술 스택:** AWS, GCP, Terraform(IaC)
 
