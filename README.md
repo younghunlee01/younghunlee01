@@ -62,7 +62,7 @@
 ### 4. Kubernetes
 
 * 📄 **관련 문서:**
-  * [Kubernetes](./Project/)
+  * [Kubernetes](./Project/1_history_kubernetesproject.pdf)
 
 * 🛠️ **기술 스택:** Kubernetes
 
@@ -76,21 +76,21 @@
 ### 5. Terraform
 
 * 📄 **관련 문서:**
-  * [Terraform](./Project/)
+  * [Terraform](./Project/1_HISTORY_TerraformProject.pdf)
 
-* 🛠️ **기술 스택:** 
+* 🛠️ **기술 스택:** Terraform(IaC), HCP, Git, AWS
 
-* 💡 **설명:** 
+* 💡 **설명:** IaC 개념을 도입하여 인프라 전체를 코드화하고 자동 배포를 구현
 
 * 🎯 **주요 기여:**
-  * 
-  * 
-  * 
+  * IaC 기반 인프라 구성
+  * HCP 연동 및 CI/CD 파이프라인 구축
+  * 고가용성 및 복구 자동화 인프라 구성
 
 ### 6. MultiCloud
 
 * 📄 **관련 문서:**
-  * [MultiCloud](./Project/)
+  * [MultiCloud](./Project/1_history_multi-cloud.pdf)
 
 * 🛠️ **기술 스택:** 
 
