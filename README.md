@@ -88,7 +88,7 @@
 
 * 🛠️ **기술 스택:** AWS, GCP, Terraform(IaC)
 
-* 💡 **설명:** AWS 인프라와 GCP Cloud SQL을 HA VPN 및 BGP 동적 라우팅으로 사설 연동
+* 💡 **설명:** AWS 인프라와 GCP Cloud SQL을 HA VPN 및 BGP 동적 라우팅으로 연동
 
 * 🎯 **주요 기여:**
   * 멀티 클라우드 네트워크 연동
