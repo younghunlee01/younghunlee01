@@ -20,7 +20,7 @@
 ## [3. AWS]
 
 * 📄 **관련 문서:**
-  * [AWS 퍼블릭 클라우드 구성](./Project/AWS_퍼블릭_클라우드_구성.pdf) <!-- 실제 PDF 파일명으로 변경하세요 -->
+  * [AWS 퍼블릭 클라우드 구성](./Project/1_HISTORY_AWSProject.pdf) <!-- 실제 PDF 파일명으로 변경하세요 -->
 
 * 🛠️ **기술 스택:** AWS VPC, EC2, S3, RDS, CloudFront
 
