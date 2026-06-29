@@ -11,19 +11,19 @@
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform
 
 <p align="left">
-  <!-- AWS SAA -->
+  <!-- AWS 로고 -->
   <a href="본인의_AWS_SAA_인증_링크" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20SAA-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120" height="120" alt="AWS SAA">
   </a>
-
-  <!-- Kubernetes CKA -->
+  &nbsp;&nbsp;
+  <!-- Kubernetes 로고 -->
   <a href="본인의_CKA_인증_링크" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes%20CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="110" height="110" alt="CKA">
   </a>
-
-  <!-- Terraform -->
+  &nbsp;&nbsp;
+  <!-- Terraform 로고 -->
   <a href="본인의_Terraform_인증_혹은_프로젝트_링크" target="_blank">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="110" height="110" alt="Terraform">
   </a>
 </p>
 
