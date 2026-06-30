@@ -12,7 +12,7 @@
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/5c15a118-46f3-40fc-bbae-43941fa6e3fa" />
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/d3beb0ed-cbf4-4fba-9982-f0f58d7546bc" />
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/1bd69ae4-76f6-40df-8769-ca15506273e3" />
-
+![CCNA](https://img.shields.io/badge/CCNA-Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ## 💼 Projects
 
