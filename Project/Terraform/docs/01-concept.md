@@ -1,4 +1,5 @@
 # 1. IaC 개념
+[← 목차로 돌아가기](../README.md)
 
 > Infrastructure as Code — 코드로 인프라를 정의하고 관리하는 방식
 
