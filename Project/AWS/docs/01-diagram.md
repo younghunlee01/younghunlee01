@@ -11,8 +11,6 @@
 - **VPC:** his-prd-vpc (`10.250.0.0/16`)
 - **가용 영역:** ap-northeast-2a / ap-northeast-2c
 
-> 📌 구성도 이미지는 이 디렉토리에 `diagram.png` 등으로 업로드한 뒤 아래에 삽입하세요.
-> `![구성도](./images/diagram.png)`
 
 ---
 
