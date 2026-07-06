@@ -4,7 +4,7 @@
 ## 전체 구성
 
 - **리전:** ap-northeast-2 (Seoul)
-- **VPC:** his-prd-vpc (`10.250.0.0/16`)
+- **VPC:** HIS-PRD-VPC (`10.250.0.0/16`)
 - **가용 영역:** ap-northeast-2a / ap-northeast-2c
 
 ![구성도](./images/구성도-1.png)
