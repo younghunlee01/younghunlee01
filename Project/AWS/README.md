@@ -24,12 +24,12 @@
 
 각 문서는 아래 순서대로 프로젝트 진행 흐름을 담고 있습니다.
 
-1. **[인프라 구성도](./01-diagram.md)** — 전체 아키텍처 다이어그램 및 네트워크 흐름
-2. **[프로젝트 개요](./02-overview.md)** — 목표, 3-Tier 개념, 온프레미스 → AWS 인프라 전환
-3. **[핵심 기술 및 아키텍처 이론](./03-architecture.md)** — AWS 주요 컴포넌트 개념, 3-Tier Architecture 이론
-4. **[리소스 관리 대장](./04-resources.md)** — 생성한 모든 AWS 리소스 목록
-5. **[구축 내용](./05-build.md)** — 네트워크 → EC2 → ELB → 서비스 연동 → RDS 단계별 구축
-6. **[아키텍처 설계 고안점](./06-design-decisions.md)** — 설계 결정 사항과 트레이드오프
+1. **[인프라 구성도](./docs/01-diagram.md)** — 전체 아키텍처 다이어그램 및 네트워크 흐름
+2. **[프로젝트 개요](./docs/02-overview.md)** — 목표, 3-Tier 개념, 온프레미스 → AWS 인프라 전환
+3. **[핵심 기술 및 아키텍처 이론](./docs/03-architecture.md)** — AWS 주요 컴포넌트 개념, 3-Tier Architecture 이론
+4. **[리소스 관리 대장](./docs/04-resources.md)** — 생성한 모든 AWS 리소스 목록
+5. **[구축 내용](./docs/05-build.md)** — 네트워크 → EC2 → ELB → 서비스 연동 → RDS 단계별 구축
+6. **[아키텍처 설계 고안점](./docs/06-design-decisions.md)** — 설계 결정 사항과 트레이드오프
 
 ---
 
