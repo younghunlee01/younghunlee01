@@ -2,9 +2,6 @@
 
 > Nginx(Web) · Tomcat(WAS) · RDS(DB)를 독립 계층으로 분리하고, ALB·Bastion·VPC 서브넷 분리를 통해 가용성과 보안을 확보한 3-Tier 웹 서비스 인프라 구축 프로젝트
 
-**팀 프로젝트** — 김동진 · 이영훈 · 장규혁 · 정성현
-**도메인:** history-cloud.store
-**리전:** ap-northeast-2 (Seoul)
 
 ---
 
