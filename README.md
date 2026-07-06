@@ -59,7 +59,7 @@
 
 ### 4. Kubernetes
 
-* 📄 **관련 문서:** [Kubernetes](./Project/1_history_kubernetesproject.pdf)
+* 📄 **관련 문서:** [Kubernetes](./Project/Kubernetes)
 
 * 🛠️ **기술 스택:** Kubernetes
 
