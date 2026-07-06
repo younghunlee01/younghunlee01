@@ -73,7 +73,7 @@
 
 ### 5. Terraform
 
-* 📄 **관련 문서:** [Terraform](./Project/1_HISTORY_TerraformProject.pdf)
+* 📄 **관련 문서:** [Terraform](./Project/Terraform)
 
 * 🛠️ **기술 스택:** Terraform(IaC), HCP, Git, AWS
 
