@@ -87,7 +87,7 @@
 
 ### 6. MultiCloud
 
-* 📄 **관련 문서:** [MultiCloud](./Project/1_history_multi-cloud.pdf)
+* 📄 **관련 문서:** [MultiCloud](./Project/MultiCloud/)
 
 * 🛠️ **기술 스택:** AWS, GCP, Terraform(IaC)
 
