@@ -1,4 +1,4 @@
-# 02. Switching (Bridging & Switching)
+# 03. Switching (Bridging & Switching)
 [← 목차로 돌아가기](../README.md)
 
 SW1~SW4 스위치 구간의 VTP · Trunk · EtherChannel · VLAN · STP(MST) · UDLD · SVI 설정을 정리합니다. 설정 커맨드는 원문 그대로이며, 반복 구간도 스위치별로 모두 기재했습니다.
