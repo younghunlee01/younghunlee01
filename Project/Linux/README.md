@@ -1,4 +1,4 @@
-# 🐧 Linux Project 2026 — HISTORY
+# 🐧 Linux Project
 
 > Rocky Linux 9.7 기반 인프라 구축 프로젝트
 > VMware 가상화 환경에서 **3대의 서버**를 구성하고, 사용자·스토리지 관리부터 **9종의 네트워크 서비스**까지 직접 구축·검증한 팀 프로젝트입니다.
@@ -27,22 +27,7 @@
 
 ---
 
-## 🙋 담당 파트 (My Contribution)
-
-이 프로젝트에서 제가 직접 설계·구축·문서화한 영역입니다.
-
-- **02. 사용자 및 그룹 등록** — 계정/그룹 생성, 기본 그룹 변경, 그룹 멤버 관리, `/etc/passwd`·`/etc/shadow`·`/etc/group` 구조 분석
-- **05. 서버 구성 (일부)**
-  - **SSH Server** — 원격 접속 환경 구성 및 XShell 연동
-  - **DNS Server** — 존 파일·CNAME 레코드 설계 및 정·역방향 조회 검증
-  - **Web Server** — Apache(httpd) 구성 및 가상 도메인 서비스
-  - **FTP Server** — vsftpd 익명 접속 환경 구성 및 파일 전송 검증
-
-> 📄 아래 목차에서 🙋 표시가 담당 파트입니다.
-
----
-
-## 📚 문서 목차
+## 📚 목차
 
 ### 1. 기본 인프라
 - [01. 설치 & 네트워크 설정](docs/01-installation.md)
@@ -53,6 +38,18 @@
 ### 2. 서버 구성
 - [05. 서버 구성 (9종 서비스)](docs/05-servers.md)
   — 🙋 SSH · XRDP · 🙋 DNS · 🙋 Web · 🙋 FTP · NFS · Samba · DHCP · Mail · MariaDB
+
+---
+
+## 🙋 담당 파트 (My Contribution)
+
+
+- **02. 사용자 및 그룹 등록** — 계정/그룹 생성, 기본 그룹 변경, 그룹 멤버 관리, `/etc/passwd`·`/etc/shadow`·`/etc/group` 구조 분석
+- **05. 서버 구성 (일부)**
+  - **SSH Server** — 원격 접속 환경 구성 및 XShell 연동
+  - **DNS Server** — 존 파일·CNAME 레코드 설계 및 정·역방향 조회 검증
+  - **Web Server** — Apache(httpd) 구성 및 가상 도메인 서비스
+  - **FTP Server** — vsftpd 익명 접속 환경 구성 및 파일 전송 검증
 
 ---
 
