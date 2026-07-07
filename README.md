@@ -32,7 +32,7 @@
 
 ### 2. Network
 
-* 📄 **관련 문서:** [네트워크](./Project/1_history_networkproject.pdf)
+* 📄 **관련 문서:** [네트워크](./Project/Network)
 
 * 🛠️ **기술 스택:** X Shell, IOU-Web, L3-Switch, 라우팅 프로토콜
 
