@@ -1,22 +1,15 @@
 # AWS 환경에서의 3-Tier Web Service 아키텍처 구축
 
-> Nginx(Web) · Tomcat(WAS) · RDS(DB)를 독립 계층으로 분리하고, ALB·Bastion·VPC 서브넷 분리를 통해 가용성과 보안을 확보한 3-Tier 웹 서비스 인프라 구축 프로젝트
 
 
----
 
-## 프로젝트 요약
+## 프로젝트 개요
 
-| 항목 | 내용 |
-|------|------|
-| 아키텍처 | 3-Tier (Presentation / Application / Data) |
-| Web Tier | Nginx (Public Subnet, Reverse Proxy) |
-| WAS Tier | Apache Tomcat 9.0.108 (Private Subnet) |
-| DB Tier | Amazon RDS for MySQL 8.0.40 (Private Subnet) |
-| 부하 분산 | Application Load Balancer (ALB) |
-| 가용 영역 | ap-northeast-2a / 2c (Multi-AZ 구성) |
-| 보안 | Security Group, NACL, Bastion Host |
-| DNS | Route 53 (가비아 도메인 연동) |
+AWS 클라우드 환경에서 3-Tier 웹 서비스 아키텍처를 직접 설계·구축한 프로젝트로, 각 계층을 독립적으로 분리하여 확장성·가용성·보안을 확보하는 것을 목표로 했습니다.
+
+- **3-Tier 아키텍처 구현** — Nginx(Web), Tomcat(WAS), RDS(DB)를 독립된 계층으로 구성하고 계층 상호 간 데이터를 연동
+- **서비스 부하 분산** — ALB(Application Load Balancer)로 트래픽을 분산하여 특정 서버 장애가 서비스 전체로 확산되지 않도록 구성
+- **네트워크 영역 분리** — Public / Private 서브넷을 용도별로 분리하고, 보안 그룹(SG)과 Bastion Host를 활용해 외부 노출을 최소화
 
 ---
 
