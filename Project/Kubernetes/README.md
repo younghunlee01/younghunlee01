@@ -31,15 +31,6 @@ Kubernetes 클러스터 운영 실습 프로젝트입니다. 클러스터 백업
 
 ---
 
-## 담당 파트
-
-이 저장소에서 **제가 담당한 파트는 아래 두 섹션**입니다.
-
-- **[05. Kubernetes Controller & Networking](docs/05-controller-networking.md)** — Deployment 롤링 업데이트/롤백, ClusterIP·NodePort 서비스, 파드 스케일 아웃
-- **[06. NetworkPolicy & Ingress](docs/06-networkpolicy-ingress.md)** — 네임스페이스 기반 트래픽 격리(NetworkPolicy), Ingress 라우팅, 서비스/파드 DNS 조회
-
----
-
 ## 전체 목차
 
 | # | 섹션 | 핵심 키워드 |
@@ -51,6 +42,15 @@ Kubernetes 클러스터 운영 실습 프로젝트입니다. 클러스터 백업
 | **05** | **[Kubernetes Controller & Networking](docs/05-controller-networking.md)** | **Rolling Update/Rollback, ClusterIP, NodePort, Scale-out** |
 | **06** | **[NetworkPolicy & Ingress](docs/06-networkpolicy-ingress.md)** | **NetworkPolicy, Ingress, Service/Pod DNS Lookup** |
 | 07 | [Resource 관리](docs/07-resource-management.md) | emptyDir, hostPath, PersistentVolume, PVC |
+
+---
+
+## 담당 파트
+
+이 저장소에서 **제가 담당한 파트는 아래 두 섹션**입니다.
+
+- **[05. Kubernetes Controller & Networking](docs/05-controller-networking.md)** — Deployment 롤링 업데이트/롤백, ClusterIP·NodePort 서비스, 파드 스케일 아웃
+- **[06. NetworkPolicy & Ingress](docs/06-networkpolicy-ingress.md)** — 네임스페이스 기반 트래픽 격리(NetworkPolicy), Ingress 라우팅, 서비스/파드 DNS 조회
 
 ---
 
