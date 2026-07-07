@@ -5,11 +5,11 @@ Rocky Linux 9.7 환경에서 구축한 9종의 네트워크 서비스입니다.
 모든 서버는 **설치 → 환경설정 → 서비스 기동 → 방화벽 허가 → 동작 검증**의 일관된 흐름으로 구성했습니다.
 
 ## 목차
-- 🙋 [SSH Server](#ssh-server-담당-파트)
+- 🙋 [SSH Server](#ssh-server)
 - [XRDP Server](#xrdp-server)
-- 🙋 [DNS Server](#dns-server-담당-파트)
-- 🙋 [Web Server](#web-server-담당-파트)
-- 🙋 [FTP Server](#ftp-server-담당-파트)
+- 🙋 [DNS Server](#dns-server)
+- 🙋 [Web Server](#web-server)
+- 🙋 [FTP Server](#ftp-server)
 - [NFS Server](#nfs-server)
 - [Samba Server](#samba-server)
 - [DHCP Server](#dhcp-server)
