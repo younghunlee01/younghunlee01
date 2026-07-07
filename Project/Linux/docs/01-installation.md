@@ -1,4 +1,5 @@
 # 01. 설치 & 네트워크 설정
+[← 목차로 돌아가기](../README.md)
 
 ## 목표
 - VMware Workstation Pro 17에 Rocky Linux 9.7을 3대 설치
