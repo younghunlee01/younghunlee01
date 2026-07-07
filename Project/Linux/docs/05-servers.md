@@ -20,7 +20,7 @@ Rocky Linux 9.7 환경에서 구축한 9종의 네트워크 서비스입니다.
 
 ---
 
-# SSH Server 🙋 (담당 파트)
+# SSH Server 🙋
 
 원격 접속 환경을 구성하고 Windows XShell에서 Project(192.168.111.100)에 접속.
 
@@ -73,7 +73,7 @@ firewall-cmd --list-ports           # 3389/tcp 확인
 
 ---
 
-# DNS Server 🙋 (담당 파트)
+# DNS Server 🙋
 
 BIND(named)로 `history.com` 도메인을 구축하고, CNAME으로 `www`→Project-B, `ftp`→Project-C 매핑.
 
@@ -148,7 +148,7 @@ nslookup
 
 ---
 
-# Web Server 🙋 (담당 파트)
+# Web Server 🙋
 
 Apache(httpd) 구성 — **Project-B**, `www.history.com`으로 서비스.
 
@@ -184,7 +184,7 @@ curl www.history.com                # <h1>Team History</h1> 출력
 
 ---
 
-# FTP Server 🙋 (담당 파트)
+# FTP Server 🙋
 
 vsftpd 익명 접속 구성 — **Project-C**, `ftp.history.com`으로 서비스.
 
