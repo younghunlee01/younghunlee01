@@ -29,16 +29,10 @@ AWS 인프라는 **Terraform(IaC)** 으로 코드화하고, 두 클라우드를 
 ---
 
 ## 기술 스택
-
-| 구분 | 사용 기술 |
-|------|-----------|
-| Cloud | AWS, GCP |
-| IaC | Terraform (HCP Terraform) |
-| Network | Site-to-Site VPN, HA VPN, BGP, IPsec, VPC Peering |
-| Compute | EC2, GCE, ALB / NLB |
-| Database | GCP Cloud SQL (MySQL 8.0) |
-| DNS | AWS Route 53 (Private Hosted Zone) |
-| App | Nginx, Flask |
+`AWS` · `GCP` · `Terraform`
+`Site-to-Site VPN` · `HA VPN` · `IPsec` · `BGP` · `VPC Peering`
+`EC2` · `ALB` · `RDS` · `Cloud SQL(MySQL)`
+`Route 53` · `Private DNS` · `Bastion` · `Nginx` · `Flask`
 
 ---
 
