@@ -1,4 +1,4 @@
-# 01. Frame Relay (WAN)
+# 02. Frame Relay (WAN)
 [← 목차로 돌아가기](../README.md)
 
 라우터 6대의 Serial 인터페이스를 Frame Relay 클라우드로 연결합니다. 공통적으로 `inverse-arp`를 비활성화하고 서브인터페이스 방식으로 IP를 구성하며, 자기 자신을 포함한 모든 이웃으로 ping이 되도록 `frame-relay map` / `interface-dlci`를 설정합니다.
