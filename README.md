@@ -18,7 +18,7 @@
 
 ### 1. Rocky Linux
 
-* 📄 **관련 문서:** [Rocky Linux 기반 인프라 구축 및 서비스 연동 구성](./Project/LinuxProject_HISTORY.pdf)
+* 📄 **관련 문서:** [Rocky Linux 기반 인프라 구축 및 서비스 연동 구성](./Project/Linux)
 
 * 🛠️ **기술 스택:** Rocky Linux 9.7
 
