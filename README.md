@@ -7,7 +7,7 @@
 * 🌱 현재: 클라우드 엔지니어 취업 준비 중
 * 🔥 관심 기술: 
 * 📝 이력서:[이력서](./Project/이력서.pdf)
-* 🏆 주요 자격증: AWS-SAA, CKA, Terraform
+* 🏆 주요 자격증: AWS-SAA, CKA, Terraform, CCNA
 
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/5c15a118-46f3-40fc-bbae-43941fa6e3fa" />
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/d3beb0ed-cbf4-4fba-9982-f0f58d7546bc" />
