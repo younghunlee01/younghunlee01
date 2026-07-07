@@ -23,10 +23,10 @@ WAN은 **Frame Relay**(P2P · Multipoint)로, 라우팅은 **RIPv2 / OSPF 멀티
 | # | 문서 | 내용 |
 |---|------|------|
 | 01 | [구성도](docs/구성도.md) | 논리적(IP·IGP) · 물리적 구성도 |
-| 02 | [Frame Relay (WAN)](docs/02-frame-relay.md) | P2P · Multipoint · DLCI 매핑 |
-| 03 | [Switching](docs/03-switching.md) | VTP · Trunk · EtherChannel · VLAN · MST · SVI |
-| 04 | [Routing](docs/04-routing.md) | RIP · OSPF · EIGRP · Redistribution |
-| 05 | [Services & Security](docs/05-services-security.md) | OSPF MD5 인증 · DHCP · UDP 릴레이 |
+| 02 | [Frame Relay (WAN)](docs/01-frame-relay.md) | P2P · Multipoint · DLCI 매핑 |
+| 03 | [Switching](docs/23-switching.md) | VTP · Trunk · EtherChannel · VLAN · MST · SVI |
+| 04 | [Routing](docs/03-routing.md) | RIP · OSPF · EIGRP · Redistribution |
+| 05 | [Services & Security](docs/04-services-security.md) | OSPF MD5 인증 · DHCP · UDP 릴레이 |
 
 ---
 
