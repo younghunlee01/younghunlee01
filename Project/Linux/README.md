@@ -52,7 +52,7 @@
 
 ---
 
-## 🛠️ 사용 기술
+## 🛠️ 기술 스택
 
 `Rocky Linux 9.7` · `VMware` · `NetworkManager(nmcli/nmtui)` · `LVM` · `Quota`
 `OpenSSH` · `XRDP` · `BIND(named)` · `Apache httpd` · `vsftpd` · `NFS` · `Samba` · `dhcp-server` · `Sendmail/Dovecot` · `MariaDB`
