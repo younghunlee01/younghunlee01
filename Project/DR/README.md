@@ -1,13 +1,7 @@
-# DR 재해복구 시스템 구축 (AWS Cross-Region DR)
+# DR 재해복구 시스템 구축
 
 > AWS **서울 리전(Main)** 과 **도쿄 리전(DR)** 을 이중화하여,
 > 주 센터 장애 시 **서비스 중단 없이 자동으로 백업 리전으로 우회**되도록 구성한 재해복구(Disaster Recovery) 프로젝트입니다.
-
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-EC2%20%7C%20ALB%20%7C%20Route53-FF9900?logo=amazonaws&logoColor=white">
-  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Cross--Region%20DR-blue">
-  <img alt="Strategy" src="https://img.shields.io/badge/Strategy-Active--Passive%20Failover-success">
-</p>
 
 ---
 
