@@ -29,16 +29,7 @@ GitHub push → 자동 `plan` · `apply`로 VPC부터 ALB · Auto Scaling까지 
 
 ## 아키텍처 한눈에 보기
 
-```
-[사용자] → Route53 (DNS) → ALB (트래픽 분산)
-                              │
-                    ┌─────────┴─────────┐
-              Public Subnet 2a     Public Subnet 2c
-              (Bastion, ALB, NAT)  (ALB)
-                    │                   │
-              Private Subnet 2a   Private Subnet 2c
-              (App, RDS)          (App, RDS)
-```
+![AWS 3-Tier 아키텍처 구성도](./docs/images/architecture.svg)
 
 - **네트워크**: VPC(`10.250.0.0/16`) 내 멀티 AZ(2a · 2c) 퍼블릭/프라이빗 서브넷 구성
 - **보안**: 용도별 보안 그룹 분리, Bastion 경유 접근으로 외부 노출 최소화
