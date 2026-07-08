@@ -1,24 +1,11 @@
-# DR 재해복구 시스템 구축 (Multi-Cloud Cross-Region DR)
+# DR 재해복구 시스템 구축
 
 > AWS **서울 리전(Main)** 과 **도쿄 리전(DR)** 을 이중화하고, GCP Cloud SQL을 공용 DB로 두어
 > 주 센터 장애 시 **서비스 중단 없이 자동으로 백업 리전으로 우회**되도록 구성한 재해복구(Disaster Recovery) 프로젝트입니다.
 
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-EC2%20%7C%20ALB%20%7C%20Route53-FF9900?logo=amazonaws&logoColor=white">
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-Cloud%20SQL(MariaDB)-4285F4?logo=googlecloud&logoColor=white">
-  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Cross--Region%20DR-blue">
-</p>
-
 ---
 
-## 📌 한 줄 요약
-
-카카오·대전 정부 데이터센터 화재처럼 **단일 데이터센터 장애가 곧 전체 서비스 마비로 이어지는 문제**를,
-지리적으로 격리된 두 AWS 리전과 Route 53 Failover 라우팅으로 해결한 **Active–Passive DR 아키텍처**입니다.
-
----
-
-## 🎯 프로젝트 개요
+## 프로젝트 개요
 
 | 항목 | 내용 |
 |------|------|
@@ -32,7 +19,7 @@
 
 ---
 
-## 🏗️ 아키텍처
+## 아키텍처
 
 ```mermaid
 flowchart TD
@@ -69,7 +56,7 @@ flowchart TD
 
 ---
 
-## 🔑 핵심 포인트
+## 핵심 포인트
 
 - **지리적 격리** — 주 센터와 백업 센터를 물리적으로 멀리 떨어진 리전에 배치해, 하나의 재난이 두 센터를 동시에 무너뜨리지 못하도록 설계했습니다. (도쿄 시내에 둘 다 두면 대지진에 함께 붕괴)
 - **자동 장애 조치(Failover)** — Route 53의 Primary/Secondary 레코드와 Health Check로 사람의 개입 없이 트래픽을 전환합니다.
@@ -78,7 +65,7 @@ flowchart TD
 
 ---
 
-## 🧭 문서 (docs)
+## 목차
 
 | 문서 | 내용 |
 |------|------|
@@ -89,7 +76,7 @@ flowchart TD
 
 ---
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 | 구분 | 사용 기술 |
 |------|-----------|
@@ -101,7 +88,7 @@ flowchart TD
 
 ---
 
-## 📈 결과
+## 결과
 
 - 주 센터(서울) 장애 상황에서 **백업 센터(도쿄)로의 자동 전환**을 실제로 재현·검증했습니다.
 - 리전 전환 후에도 GCP 공용 DB를 통해 **데이터 연속성**을 확인했습니다.
