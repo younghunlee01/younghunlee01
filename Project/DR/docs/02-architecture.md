@@ -4,7 +4,7 @@
 
 AWS–GCP 하이브리드 멀티 클라우드 기반 재해복구 시스템입니다.
 
-![DR Architecture](/images/dr-architecture.png)
+![DR Architecture](./images/dr-architecture.png)
 
 
 ---
