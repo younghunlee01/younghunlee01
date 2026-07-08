@@ -1,11 +1,11 @@
-# 🐧 Linux Project
+# Linux Project
 
 > Rocky Linux 9.7 기반 인프라 구축 프로젝트
 > VMware 가상화 환경에서 **3대의 서버**를 구성하고, 사용자·스토리지 관리부터 **9종의 네트워크 서비스**까지 직접 구축·검증한 팀 프로젝트입니다.
 
 ---
 
-## 📌 프로젝트 개요
+## 프로젝트 개요
 
 | 항목 | 내용 |
 |------|------|
@@ -14,7 +14,7 @@
 | **구성 대수** | 3대 (Project / Project-B / Project-C) |
 | **주요 영역** | 네트워크 · 사용자/그룹 · LVM · 디스크 쿼터 · 서버 서비스 9종 |
 
-### 🖥️ 서버 구성
+### 서버 구성
 
 | VM 이름 | IP 주소 | RAM | DISK | 역할 |
 |---------|---------|-----|------|------|
@@ -26,21 +26,21 @@
 
 ---
 
-## 📚 목차
+## 목차
 
 ### 1. 기본 인프라
 - [01. 설치 & 네트워크 설정](docs/01-installation.md)
-- 🙋 [02. 사용자 및 그룹 등록](docs/02-users-and-groups.md)
+- [02. 사용자 및 그룹 등록](docs/02-users-and-groups.md)
 - [03. 디스크 추가 후 LVM 구성](docs/03-lvm.md)
 - [04. 디스크 쿼터 설정](docs/04-disk-quota.md)
 
 ### 2. 서버 구성
 - [05. 서버 구성 (9종 서비스)](docs/05-servers.md)
-  — 🙋 SSH · XRDP · 🙋 DNS · 🙋 Web · 🙋 FTP · NFS · Samba · DHCP · Mail · MariaDB
+  — SSH · XRDP ·  DNS ·  Web ·  FTP · NFS · Samba · DHCP · Mail · MariaDB
 
 ---
 
-## 🙋 담당 파트 (My Contribution)
+## 담당 파트 (My Contribution)
 
 
 - **02. 사용자 및 그룹 등록** — 계정/그룹 생성, 기본 그룹 변경, 그룹 멤버 관리, `/etc/passwd`·`/etc/shadow`·`/etc/group` 구조 분석
