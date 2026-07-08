@@ -25,7 +25,7 @@
 
 ## 아키텍처
 
-![Cross-Region DR Architecture](images/architecture.png)
+![Cross-Region DR Architecture](./images/dr-architecture.png)
 
 ```mermaid
 flowchart TD
