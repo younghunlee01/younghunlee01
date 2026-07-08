@@ -4,53 +4,8 @@
 
 AWS–GCP 하이브리드 멀티 클라우드 기반 재해복구 시스템입니다.
 
-```mermaid
-flowchart TD
-    User([👤 사용자 · easiha.com])
-    User --> R53{{"⚡ AWS Route 53<br/>장애 조치 / Failover 정책"}}
+![DR Architecture](../images/dr-architecture.png)
 
-    R53 -->|"🟢 평시 · 기본(Primary) 운영 센터"| SeoulALB
-    R53 -.->|"🔴 서울 장애 시 자동 우회 · 보조(Secondary)"| TokyoALB
-
-    subgraph Seoul["🇰🇷 AWS 서울 리전 (ap-northeast-2) · Main"]
-        direction TB
-        SeoulALB[서울 ALB]
-        subgraph SPub["Public Subnet"]
-            SW1[WEB 서버 01]
-            SW2[WEB 서버 02]
-        end
-        subgraph SPri["Private Subnet"]
-            SA1[WAS 서버 01]
-            SA2[WAS 서버 02]
-        end
-        SeoulALB --> SW1 & SW2
-        SW1 & SW2 --> SA1 & SA2
-    end
-
-    subgraph Tokyo["🇯🇵 AWS 도쿄 리전 (ap-northeast-1) · DR"]
-        direction TB
-        TokyoALB[도쿄 ALB]
-        subgraph TPub["Public Subnet"]
-            TW1[WEB 서버 01]
-            TW2[WEB 서버 02]
-        end
-        subgraph TPri["Private Subnet"]
-            TA1[WAS 서버 01]
-            TA2[WAS 서버 02]
-        end
-        TokyoALB --> TW1 & TW2
-        TW1 & TW2 --> TA1 & TA2
-    end
-
-    GCP[("☁️ Google Cloud Platform<br/>Cloud SQL · MariaDB")]
-    SA1 & SA2 --> GCP
-    TA1 & TA2 --> GCP
-```
-
-> 📷 발표 자료의 실제 구성도 스크린샷은 `images/` 폴더에 추가해 아래처럼 삽입할 수 있습니다.
-> ```markdown
-> ![DR Architecture](../images/architecture.png)
-> ```
 
 ---
 
