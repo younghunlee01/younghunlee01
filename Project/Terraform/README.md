@@ -1,26 +1,11 @@
 # Terraform 프로젝트
 
-**제공된 Terraform(HCL) 코드를 분석**하고, **HCP Terraform + GitHub 연동**을 통해
-GitOps 자동 배포(CI/CD) 파이프라인을 직접 구성한 프로젝트입니다.
-
-코드 push → 자동 `plan` / `apply` → VPC부터 ALB · Auto Scaling까지 코드로 배포하고,
-최종적으로 실제 도메인(`history-cloud.store`) 서비스까지 검증했습니다.
-
-> 📌 인프라 정의 코드(`.tf`)는 프로젝트에서 제공되었으며,
-> 본 문서는 **그 코드를 리소스별로 분석·정리**하고 **배포 체계 구성 과정을 직접 수행**한 기록입니다.
-
----
-
 ## 프로젝트 개요
 
-| 항목 | 내용 |
-|------|------|
-| 목표 | 제공된 IaC 코드 분석 및 GitOps 기반 AWS 3-Tier 인프라 배포 |
-| 직접 수행 | 코드 분석 · HCP Terraform ↔ GitHub 연동 · 변수 설정 · 배포(apply) · 도메인 연결 |
-| 사용 기술 | Terraform (HCL), HCP Terraform, AWS, GitHub |
-| 대상 리소스 | VPC, Subnet, IGW, NAT GW, RDS, ALB, Auto Scaling, Route53, ACM |
-| 배포 방식 | GitHub push → HCP Terraform 자동 plan · apply |
-| 결과 | `history-cloud.store` 도메인 서비스 정상 동작 확인 |
+제공된 Terraform(HCL) 코드를 리소스별로 분석하고, **HCP Terraform ↔ GitHub 연동**으로 GitOps 자동 배포 파이프라인을 직접 구성했습니다.
+GitHub push → 자동 `plan` · `apply`로 VPC부터 ALB · Auto Scaling까지 코드로 배포하고, 실제 도메인 `history-cloud.store` 서비스 정상 동작까지 검증했습니다.
+
+> 📌 인프라 코드(`.tf`)는 제공되었으며, 코드 분석 · 연동 · 변수 설정 · 배포 · 도메인 연결을 직접 수행했습니다.
 
 ---
 
