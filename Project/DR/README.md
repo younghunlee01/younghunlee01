@@ -27,29 +27,6 @@
 
 ![Cross-Region DR Architecture](./docs/images/dr-architecture.png)
 
-```mermaid
-flowchart TD
-    User([👤 사용자<br/>])
-
-    User --> R53{{"⚡ AWS Route 53<br/>Failover Routing · Health Check"}}
-
-    R53 -->|"🟢 평시 · Primary"| SeoulALB
-    R53 -.->|"🔴 장애 시 자동 우회 · Secondary"| TokyoALB
-
-    subgraph Seoul["🇰🇷 AWS 서울 리전 (ap-northeast-2) · Main"]
-        direction TB
-        SeoulALB[서울 ALB]
-        SeoulALB --> SWeb["WEB 서버 x2<br/>(Public Subnet)"]
-        SWeb --> SWas["WAS 서버 x2<br/>(Private Subnet)"]
-    end
-
-    subgraph Tokyo["🇯🇵 AWS 도쿄 리전 (ap-northeast-1) · DR"]
-        direction TB
-        TokyoALB[도쿄 ALB]
-        TokyoALB --> TWeb["WEB 서버 x2<br/>(Public Subnet)"]
-        TWeb --> TWas["WAS 서버 x2<br/>(Private Subnet)"]
-    end
-```
 
 - **평시**: 모든 트래픽은 Primary인 서울 리전으로 라우팅됩니다.
 - **장애 시**: Route 53 Health Check가 서울 ALB의 이상을 감지하면, 자동으로 Secondary인 도쿄 리전으로 우회합니다.
