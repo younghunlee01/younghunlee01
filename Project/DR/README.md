@@ -54,14 +54,8 @@
 
 ---
 
-## 기술 스택
-
-| 구분 | 사용 기술 |
-|------|-----------|
-| **Compute** | AWS EC2 (Red Hat Enterprise Linux), AMI 크로스 리전 복제 |
-| **Network / LB** | AWS ALB, VPC (Public/Private Subnet), Security Group |
-| **DNS / Failover** | AWS Route 53 (Hosted Zone, Failover Routing, Health Check) |
-| **App / Test** | DVWA, tcpdump (패킷 검증) |
+## 🛠️ 기술 스택
+`AWS` · `EC2` · `AMI` · `ALB` · `VPC` · `Public/Private Subnet` · `Security Group` `Route 53` · `Failover Routing` · `Health Check` · `Hosted Zone` · `tcpdump`
 
 ---
 
