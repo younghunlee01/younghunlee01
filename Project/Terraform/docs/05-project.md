@@ -128,6 +128,6 @@ Bastion Host 인스턴스 구성.
 
 ---
 
-## 프로젝트 한 줄 요약
+## 프로젝트 정리
 
-**IaC 개념을 코드로 구현(Terraform) → GitHub + HCP Terraform 연동으로 자동 배포(GitOps) → VPC부터 ALB · Auto Scaling까지 AWS 3-Tier 인프라를 코드로 배포하고 실제 도메인 서비스까지 검증한 프로젝트.**
+**IaC 개념을 코드로 구현(Terraform) → GitHub + HCP Terraform 연동으로 자동 배포(GitOps) → VPC부터 ALB · Auto Scaling까지 AWS 3-Tier 인프라를 코드로 배포하고 실제 도메인 서비스까지 검증.**
