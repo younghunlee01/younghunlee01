@@ -485,6 +485,6 @@ show databases;   -- history DB가 원격에서도 조회됨
 
 ## 전체 정리
 
-- 서버마다 공통적으로 **설치 → 설정 → 기동 → 방화벽 → 검증** 흐름을 적용했습니다.
-- DNS의 CNAME/MX 레코드가 Web·FTP·Mail 서비스와 어떻게 연동되는지 end-to-end로 확인했습니다.
-- Rocky Linux 환경에서 firewalld와 **SELinux**를 함께 고려해야 정상 동작하는 서비스(Samba 등)를 경험했습니다.
+- 서버마다 공통적으로 **설치 → 설정 → 기동 → 방화벽 → 검증** 흐름을 적용
+- DNS의 CNAME/MX 레코드가 Web·FTP·Mail 서비스와 어떻게 연동되는지 end-to-end로 확인.
+- Rocky Linux 환경에서 firewalld와 **SELinux**를 함께 고려해야 정상 동작하는 서비스(Samba 등)를 경험
