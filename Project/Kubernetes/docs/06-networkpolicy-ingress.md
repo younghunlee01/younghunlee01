@@ -156,3 +156,5 @@ Address 1: 10.244.235.191
 > **클러스터 DNS(CoreDNS)** 명명 규칙
 > - Service: `<service>.<namespace>.svc.cluster.local`
 > - Pod: `<pod-ip-with-dashes>.<namespace>.pod.cluster.local`
+
+➡️ 다음: [07. 리소스 관리](07-resource-management.md)
