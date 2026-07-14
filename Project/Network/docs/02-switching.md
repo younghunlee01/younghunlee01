@@ -324,3 +324,5 @@ interface vlan 100
  no shutdown
  ip address 14.14.90.4 255.255.255.0
 ```
+
+➡️ 다음: [04. Routing](03-routing.md)
