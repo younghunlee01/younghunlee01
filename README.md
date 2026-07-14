@@ -99,7 +99,7 @@
   * 멀티 클라우드 인프라 구축 및 관리
  ---
 
-### 7. DR
+### 7. DR(재해복구)
 * 📄 **관련 문서:** [DR](./Project/DR/)
   
 * 🛠️ **기술 스택:** AWS(EC2, AMI, ALB, VPC, Route 53), tcpdump
