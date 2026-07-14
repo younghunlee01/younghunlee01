@@ -135,3 +135,5 @@ kubectl get pods
 ```
 
 > **busybox** 이미지는 실행 중인 foreground 프로세스가 있어야 컨테이너가 유지되므로 `sleep 3600` 같은 command를 지정합니다.
+
+➡️ 다음: [05. Kubernetes Controller & Networking](05-controller-networking.md)
