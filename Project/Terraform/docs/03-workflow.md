@@ -91,3 +91,5 @@ terraform apply
 # 5. 리소스 제거
 terraform destroy
 ```
+
+➡️ 다음: [04. CI/CD & GitOps](04-cicd.md)
