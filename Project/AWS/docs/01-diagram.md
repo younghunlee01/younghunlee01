@@ -55,3 +55,5 @@ Nginx (Public Subnet, 2A / 2C)  ──[Reverse Proxy]──►  Tomcat (Private 
 - **Public 라우팅(HIS-PRD-RT-PUB):** `0.0.0.0/0` → Internet Gateway
 - **Private 라우팅(HIS-PRD-RT-PRI):** `0.0.0.0/0` → NAT Gateway
 - **Bastion Host:** 개발자(Dev)가 Private 서버에 SSH 접근하기 위한 관문
+
+➡️ 다음: [02. 프로젝트 개요](02-overview.md)
