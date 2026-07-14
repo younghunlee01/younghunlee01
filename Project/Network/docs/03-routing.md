@@ -229,3 +229,5 @@ router eigrp 100
 - **R1** : RIP 재분배 경로(`R`)로 전체 `14.x`망 학습.
 - **R5** : 외부 경로 `O E2` / Inter-Area `O IA`로 재분배 결과 확인.
 - Loopback이 라우팅 테이블에 `/24`로 표기됨 (= P2P 적용 정상).
+
+➡️ 다음: [05. Services & Security](04-services-security.md)
