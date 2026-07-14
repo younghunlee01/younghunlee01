@@ -73,3 +73,5 @@ kubectl get clusterrolebinding | grep deployment-clusterrolebinding
 ```
 
 > **Role vs ClusterRole**: Role/RoleBinding은 특정 네임스페이스 범위에서만 유효하고, ClusterRole은 클러스터 전역 리소스에 대해 정의할 수 있습니다. ClusterRole을 ClusterRoleBinding 대신 RoleBinding으로 묶으면 특정 네임스페이스로 권한 범위를 제한할 수도 있습니다.
+
+➡️ 다음: [03. 노드 관리](03-node-management.md)
