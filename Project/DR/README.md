@@ -1,4 +1,5 @@
 # DR 재해복구 시스템 구축
+![Cross-Region DR Architecture](./docs/images/dr-architecture.png)
 
 > AWS **서울 리전(Main)** 과 **도쿄 리전(DR)** 을 이중화하여,
 > 주 센터 장애 시 **서비스 중단 없이 자동으로 백업 리전으로 우회**되도록 구성한 재해복구(Disaster Recovery) 프로젝트입니다.
@@ -20,17 +21,6 @@
 | **트래픽 제어** | AWS Route 53 (Failover Routing + Health Check) |
 | **검증 애플리케이션** | DVWA (Damn Vulnerable Web Application) |
 | **검증 범위** | 서울 장애 → 도쿄 자동 전환 → 서울 복구 회귀 (웹 페일오버) |
-
----
-
-## 아키텍처
-
-![Cross-Region DR Architecture](./docs/images/dr-architecture.png)
-
-
-- **평시**: 모든 트래픽은 Primary인 서울 리전으로 라우팅됩니다.
-- **장애 시**: Route 53 Health Check가 서울 ALB의 이상을 감지하면, 자동으로 Secondary인 도쿄 리전으로 우회합니다.
-- 서울과 도쿄는 동일한 **ALB → WEB → WAS** 구성으로 이중화되어 있습니다.
 
 
 ---
