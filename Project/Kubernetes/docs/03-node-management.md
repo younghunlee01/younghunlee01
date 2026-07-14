@@ -74,3 +74,5 @@ kubectl apply -f eshop-store.yaml
 kubectl get po eshop-store -o wide
 # NODE → worker-1 (disktype=ssd 라벨을 가진 노드에 배치됨)
 ```
+
+➡️ 다음: [04. 파드 생성](04-pod-creation.md)
