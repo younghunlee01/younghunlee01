@@ -98,3 +98,5 @@ interface s1/0.602 point-to-point
  ip address 14.14.26.6 255.255.255.0
  frame-relay interface-dlci 602
 ```
+
+➡️ 다음: [03. Switching](02-switching.md)
