@@ -221,3 +221,5 @@ kubectl get deploy,pod -n devops
 ```
 
 > `kubectl scale`은 Deployment의 `replicas` 필드를 즉시 변경합니다. 트래픽 증가에 대응하는 수평 확장(Scale-out)의 기본 방식이며, 부하 기반 자동 확장이 필요하면 HPA(HorizontalPodAutoscaler)를 사용합니다.
+
+➡️ 다음: [06. NetowrkPolicy & Ingress](06-networkpolicy-ingress.md)
