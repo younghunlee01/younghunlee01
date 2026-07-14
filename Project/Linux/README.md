@@ -52,16 +52,10 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 `Rocky Linux 9.7` · `VMware` · `NetworkManager(nmcli/nmtui)` · `LVM` · `Quota`
 `OpenSSH` · `XRDP` · `BIND(named)` · `Apache httpd` · `vsftpd` · `NFS` · `Samba` · `dhcp-server` · `Sendmail/Dovecot` · `MariaDB`
 `firewalld` · `SELinux`
 
 ---
-
-## 🔑 배운 점
-
-- 물리 디스크 추가부터 **PV → VG → LV** 로 이어지는 LVM 스토리지 계층을 직접 구성하며 유연한 볼륨 관리 방식을 이해했습니다.
-- 각 서버 서비스마다 **설치 → 환경설정 → 서비스 기동 → 방화벽 허가 → 동작 검증**이라는 일관된 구축 흐름을 체득했습니다.
-- DNS의 정방향/CNAME 레코드와 Mail의 MX 레코드가 실제 서비스(Web·FTP·Mail)와 어떻게 연동되는지 end-to-end로 확인했습니다.
