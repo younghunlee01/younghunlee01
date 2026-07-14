@@ -73,8 +73,8 @@ multi-cloud/
 
 ---
 
-## 핵심
+## 정리
 
-> AWS 인프라 대부분을 Terraform으로 코드화해 재현성·버전관리를 확보하고, VPN만 콘솔로 보완했습니다.
+> AWS 인프라 대부분을 Terraform으로 코드화해 재현성·버전관리를 확보하고, VPN만 콘솔로 보완
 
 ➡️ 다음: [03. GCP 생성 리소스](03-gcp-resources.md)
