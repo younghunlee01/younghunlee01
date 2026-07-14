@@ -105,6 +105,8 @@ repquota /userHome           # 전체 사용자 사용량 리포트
 
 ## 정리
 
-- `usrjquota` 옵션으로 마운트한 파일 시스템에서 사용자별 쿼터를 활성화했다.
-- `quotacheck` → `edquota` → `quotaon` 순서로 쿼터를 구성했다.
-- soft/hard limit의 실제 동작(경고 vs 차단)을 파일 복사 테스트로 검증했다.
+- `usrjquota` 옵션으로 마운트한 파일 시스템에서 사용자별 쿼터를 활성화
+- `quotacheck` → `edquota` → `quotaon` 순서로 쿼터를 구성
+- soft/hard limit의 실제 동작(경고 vs 차단)을 파일 복사 테스트로 검증
+
+➡️ 다음: [05. 서버 구성](05-servers.md)
