@@ -53,3 +53,5 @@
 - `HistoryDB` — MySQL 8.0.40, 단일 AZ
 - Subnet Group: `HIS-PRD-VPC-DB-GROUP`
 - 초기 데이터베이스: `HIS_PRD_DB`
+
+➡️ 다음: [05. 구축 내용](05-build.md)
