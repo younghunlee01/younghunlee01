@@ -25,7 +25,7 @@ Kubernetes 클러스터를 직접 구축·운영하며 CKA(Certified Kubernetes 
 | 04 | [파드 생성](docs/04-pod-creation.md) | env·command·args, Static Pod, 로그 추출, Multi-Container Pod |
 | **05** | **[Kubernetes Controller & Networking](docs/05-controller-networking.md)** | **Rolling Update/Rollback, ClusterIP, NodePort, Scale-out** |
 | **06** | **[NetworkPolicy & Ingress](docs/06-networkpolicy-ingress.md)** | **NetworkPolicy, Ingress, Service/Pod DNS Lookup** |
-| 07 | [Resource 관리](docs/07-resource-management.md) | emptyDir, hostPath, PersistentVolume, PVC |
+| 07 | [리소스 관리](docs/07-resource-management.md) | emptyDir, hostPath, PersistentVolume, PVC |
 
 ---
 
