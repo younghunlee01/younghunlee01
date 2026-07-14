@@ -43,7 +43,7 @@
 
 ---
 
-## 목차 (docs)
+## 목차
 
 | 문서 | 내용 |
 |------|------|
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 기술 스택
 `AWS` · `EC2` · `AMI` · `ALB` · `VPC` · `Public/Private Subnet` · `Security Group` `Route 53` · `Failover Routing` · `Health Check` · `Hosted Zone` · `tcpdump`
 
 ---
