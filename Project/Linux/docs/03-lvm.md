@@ -99,6 +99,8 @@ vi /etc/fstab
 
 ## 정리
 
-- 물리 디스크 → **PV → VG(DATA) → LV(VIDEO/AUDIO)** 계층으로 스토리지를 구성했다.
-- `--extents 100%FREE` 옵션으로 VG의 남은 공간 전체를 AUDIO 볼륨에 할당했다.
-- `/etc/fstab`에 등록해 재부팅 후에도 마운트가 유지되도록 했다.
+- 물리 디스크 → **PV → VG(DATA) → LV(VIDEO/AUDIO)** 계층으로 스토리지를 구성
+- `--extents 100%FREE` 옵션으로 VG의 남은 공간 전체를 AUDIO 볼륨에 할당
+- `/etc/fstab`에 등록해 재부팅 후에도 마운트가 유지되도록 설정
+
+➡️ 다음: [04. 디스크 쿼터 설정](04-disk-quota.md)
