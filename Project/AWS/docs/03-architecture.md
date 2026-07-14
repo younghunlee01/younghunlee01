@@ -41,3 +41,5 @@
 
 **요청 흐름:**
 `Client → HTTP Request → Presentation(Nginx) → Application(Tomcat) → Data Query → Data(MySQL)`
+
+➡️ 다음: [04. 리소스 관리 대장](04-resources.md)
