@@ -1,4 +1,4 @@
-# 02. 사용자 및 그룹 등록 🙋 (담당 파트)
+# 02. 사용자 및 그룹 등록
 [← 목차로 돌아가기](../README.md)
 
 ## 목표
@@ -131,6 +131,8 @@ krsoccer:x:1010:kdj,lyh,jsh,jgh
 
 ## 정리
 
-- `adduser` → `passwd` → `groupadd` → `usermod -g` / `gpasswd -a` 순으로 계정과 그룹을 구성했다.
-- 계정/그룹 정보가 각각 `/etc/passwd`, `/etc/shadow`, `/etc/group` 파일에 저장되는 구조를 직접 확인했다.
-- `usermod -g`(기본 그룹 변경)와 `gpasswd -a`(보조 그룹 추가)의 차이를 이해했다.
+- `adduser` → `passwd` → `groupadd` → `usermod -g` / `gpasswd -a` 순으로 계정과 그룹을 구성
+- 계정/그룹 정보가 각각 `/etc/passwd`, `/etc/shadow`, `/etc/group` 파일에 저장되는 구조를 직접 확인
+- `usermod -g`(기본 그룹 변경)와 `gpasswd -a`(보조 그룹 추가)의 차이를 이해
+
+➡️ 다음: [03. 디스크 추가 후 LVM 구성](03-lvm.md)
