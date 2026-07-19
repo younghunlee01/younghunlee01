@@ -2,7 +2,6 @@
 
 > Frame Relay WAN 위에서 RIP · OSPF · EIGRP를 구간별로 운용하고 **재분배로 하나의 라우팅 도메인처럼** 연동한 프로젝트입니다. 스위치 구간은 VLAN · EtherChannel · MST로 이중화했습니다.
 
-![Topology](docs/images/logical-ip.jpg)
 
 ---
 
