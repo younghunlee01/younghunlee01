@@ -5,7 +5,6 @@
 ## 📂 About Me
 
 * 🌱 현재: 클라우드/네트워크 엔지니어 취업 준비 중
-* 📝 이력서:[이력서](./Project/이력서.pdf)
 * 🏆 주요 자격증: AWS-SAA, CKA, Terraform, CCNA
 
 <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/5c15a118-46f3-40fc-bbae-43941fa6e3fa" />
